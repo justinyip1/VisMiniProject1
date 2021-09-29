@@ -1,0 +1,58 @@
+
+.row {
+    float:left;
+    margin-left:300px;
+    margin-right:300px;
+}
+
+.column {
+    float:left;
+	width:50%;
+	box-sizing:border-box;
+	padding:5px;
+	min-height:200px;
+}
+
+img.main {
+    padding:80px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.main-rotate {
+    transform:rotate(270deg);
+    padding:80px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+p {
+    padding:80px;
+
+}
+
+.one-vis {
+    border:2px;
+    border-color:red;
+    padding:20px;
+}
+
+h2.good{
+    width:100%;
+    text-decoration:lightgreen wavy underline;
+}
+
+
+h2.bad{
+    width:100%;
+    text-decoration:lightcoral wavy underline;
+}
+
+.one-vis {
+    border:2px;
+    border-color:red;
+}
